@@ -1,6 +1,6 @@
 {
   "name": "win-node-dash-button",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A windows-based node module to emit events when an Amazon dash button is pressed",
   "main": "app.js",
   "scripts": {
