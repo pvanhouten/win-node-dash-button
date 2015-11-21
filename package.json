@@ -1,0 +1,32 @@
+{
+  "name": "win-node-dash-button",
+  "version": "0.1.1",
+  "description": "A windows-based node module to emit events when an Amazon dash button is pressed",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pvanhouten/win-node-dash-button.git"
+  },
+  "keywords": [
+    "amazon",
+    "dash",
+    "windows",
+    "cap",
+    "pcap",
+    "cross-platform",
+    "node"
+  ],
+  "author": "Phil Van Houten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pvanhouten/win-node-dash-button/issues"
+  },
+  "homepage": "https://github.com/pvanhouten/win-node-dash-button#readme",
+  "dependencies": {
+    "cap": "^0.1.0",
+    "lodash": "^3.10.1"
+  }
+}
