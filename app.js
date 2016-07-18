@@ -12,7 +12,7 @@ var Cap = require('cap').Cap,
         this.dashButtons = {};
 
         this.register = function (button) {
-            button.callback = _.debounce(button.callback, 10000);
+            button.callback = _.throttle(button.callback, 10000);
             self.dashButtons[button.mac.toUpperCase()] = button;
             return self;
         };
