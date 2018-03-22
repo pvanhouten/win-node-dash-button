@@ -1,6 +1,6 @@
 # win-node-dash-button
 
-A node module built for Windows to emit events when an Amazon Dash Button is pressed
+A node module built for Windows to emit events when an Amazon Dash Button is pressed. Forked from https://github.com/pvanhouten/win-node-dash-button/
 
 ## Requirements
 
